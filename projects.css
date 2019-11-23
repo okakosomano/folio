@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Dancing+Script|Karla&display=swap');
+
+body {
+    background-image: url(https://res.cloudinary.com/manoinspace/image/upload/v1574537956/pine-leaf-on-person-s-hand-3254563_1_ey3ffe.jpg);
+    background-size: cover;
+}
+
+.nav {
+    position: absolute;
+    bottom: 5%;
+    left: 40%;
+    font-size: 25px;
+    font-weight: 300;
+    margin: 30px;
+}
+
+.nav a{
+    color:#08755a;
+    margin: 0px 60px 60px 0px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #02775a;
+    text-decoration: underline;
+    font-family: 'Comfortaa', cursive;
+}
+
+.text{
+    color: #011a13;
+    font-size: 26px;
+    margin: 0px;
+    font-family: 'Karla', sans-serif;
+}
+
+.lists h3{
+    font-size: 21px;
+} 
+
+.lists p{
+    font-size: 18px;
+    text-decoration: none;
+    font-family: 'Comfortaa', cursive;
+} 
+
+
+.lists a{
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+
+} 
+
+.lists a:hover{
+    font-size: 18px;
+    text-decoration: underline;
+    color: #1b6804;
+
+} 

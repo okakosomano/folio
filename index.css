@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url(https://res.cloudinary.com/manoinspace/image/upload/v1574525327/asphalt-dark-dawn-endless-531321_ur8kwm.jpg);
+    background-size: cover;
+} 
+
+.intro{
+    color: #00b386;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    top:40%;
+    left: 30%;
+    font-size: 30px;
+    font-family: 'Karla', sans-serif;
+    
+}
+
+.intro h1{
+    margin-bottom: 50px;
+    font-family: 'Karla', sans-serif;
+}
+
+.nav {
+    position: absolute;
+    bottom: 5%;
+    left: 35%;
+    font-size: 25px;
+    font-weight: 300;
+    margin: 30px;
+}
+
+.nav a{
+    color: black;
+    margin: 0px 60px 60px 0px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #00b386;
+    text-decoration: underline;
+    font-family: 'Comfortaa', cursive;
+}

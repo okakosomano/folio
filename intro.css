@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Dancing+Script|Karla&display=swap');
+
+body {
+    background-image: url(https://res.cloudinary.com/manoinspace/image/upload/v1574528061/adult-alone-blur-close-up-1172207_ulw7vr.jpg);
+    background-size: cover;
+}
+
+.nav {
+    position: absolute;
+    bottom: 5%;
+    left: 40%;
+    font-size: 25px;
+    font-weight: 300;
+    margin: 30px;
+}
+
+.nav a{
+    color:#00b386;
+    margin: 0px 60px 60px 0px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #02775a;
+    text-decoration: underline;
+    font-family: 'Comfortaa', cursive;
+}
+
+.intro-div{
+    color: #021812;
+    font-size: 35px;
+    margin: 0px;
+    font-family: 'Karla', sans-serif;
+}
+
+.intro-section {
+    font-size:25px;
+    width: 45%;
+    font-family: 'Dancing Script', cursive;
+}
+
+.intro-section p{
+    font-size:25px;
+    width: 45%;
+    
+}

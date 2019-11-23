@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa|Dancing+Script|Karla&display=swap');
+body {
+    background-color: #021812;
+    background-size: cover;
+    color: aliceblue;
+}
+
+.nav {
+    position: absolute;
+    bottom: 5%;
+    left: 39%;
+    font-size: 25px;
+    font-weight: 300;
+    margin: 30px;
+}
+
+.nav a{
+    color:#00b386;
+    margin: 0px 60px 60px 0px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: #02775a;
+    text-decoration: underline;
+    font-family: 'Comfortaa', cursive;
+}
+
+.contact-text{
+    color: #b3e2d6;
+    font-size: 35px;
+    margin: 0px;
+    position: absolute;
+    left: 34%;
+    font-family: 'Karla', sans-serif;
+}
+
+.contact-links a{
+    font-size: 28px;
+    color: #447468;
+    text-decoration: none;
+    margin: 0px 60px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.contact-links a:hover{
+    font-size: 28px;
+    color: #02775a;
+    text-decoration: underline;
+    margin: 0px 60px;
+}
+.contact-links{
+    position: absolute;
+    top: 40%;
+    left: 24%;
+}
